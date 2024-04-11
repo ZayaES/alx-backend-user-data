@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 
 """
-(Copied)Definition of filter_datum function that returns an obfuscated log message
+(Copied)Definition of filter_datum function that returns an
+obfuscated log message
 """
 from typing import List
 import re
